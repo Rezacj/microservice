@@ -30,3 +30,4 @@ C:\Users\Reza\source\repos\Aspnet-Microservice\Catalog.Api\obj\Debug\net8.0\refi
 C:\Users\Reza\source\repos\Aspnet-Microservice\Catalog.Api\obj\Debug\net8.0\Catalog.Api.pdb
 C:\Users\Reza\source\repos\Aspnet-Microservice\Catalog.Api\obj\Debug\net8.0\Catalog.Api.genruntimeconfig.cache
 C:\Users\Reza\source\repos\Aspnet-Microservice\Catalog.Api\obj\Debug\net8.0\ref\Catalog.Api.dll
+C:\Users\Reza\source\repos\Aspnet-Microservice\Catalog.Api\obj\Debug\net8.0\Catalog.Api.sourcelink.json
